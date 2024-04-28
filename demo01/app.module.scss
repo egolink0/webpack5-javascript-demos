@@ -1,0 +1,13 @@
+.box {
+  background-color: aqua;
+  padding: 20px;
+  display: flex;
+
+  .text {
+    color: #12345678;
+  }
+
+  ::placeholder {
+    color: gray;
+  }
+}
